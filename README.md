@@ -1,0 +1,2 @@
+# rukirid
+nvim config
